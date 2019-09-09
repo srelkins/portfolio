@@ -177,7 +177,8 @@ header.masthead {
   text-align: center;
   color: white;
   /* background-image: url("../img/header-bg.jpg"); */
-  background-image: url("../img/black.png");
+  /* background-image: url("../img/black.png"); */
+  background-image: url("../img/portfolio-background.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
